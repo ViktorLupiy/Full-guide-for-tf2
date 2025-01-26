@@ -1,1 +1,23 @@
+footer {
+    background-color: lightblue;
+    color: white;
+}
 
+body {
+    background-color: brown;
+}
+
+h1 img {
+    height: 30px;
+    width: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+footer img {
+    height:300px;
+    width:600px;
+   } 
